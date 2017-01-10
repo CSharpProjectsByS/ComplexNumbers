@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\bin\Debug\Zespolone.exe.config
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\bin\Debug\Zespolone.exe
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\bin\Debug\Zespolone.pdb
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.Form1.resources
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.Properties.Resources.resources
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.exe
+D:\Programowanie\VisualProjects\Zespolone\Zespolone\obj\Debug\Zespolone.pdb
